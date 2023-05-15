@@ -1,5 +1,6 @@
-
-
+# Third commit
+# Forth commit
+# New Commit
 
 # swap of variables using addition and subtractions
 # def arithmetic_swap(a, b):
@@ -126,12 +127,13 @@
 
 # Using the function is_prime(n) below, write a program that generates prime numbers up to 100
 # using the function is_prime(n) below, write a prog
+# This function was fixed by Alejandro
 def is_prime(n):
     if n <= 1:
-        return False|
+        return False
         for i in range(2, n):
-        if n % i == 0:
-            return False
+            if n % i == 0:
+                return False
     else:
         return True
 
