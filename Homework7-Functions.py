@@ -4,6 +4,7 @@
 
 #commit A
 #Commit amend
+#Commit B
 
 # swap of variables using addition and subtractions
 # def arithmetic_swap(a, b):
