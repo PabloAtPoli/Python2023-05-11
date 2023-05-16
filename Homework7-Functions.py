@@ -2,6 +2,9 @@
 # Forth commit
 # New Commit
 
+#commit A
+#Commit amend
+
 # swap of variables using addition and subtractions
 # def arithmetic_swap(a, b):
 #     sum_variables = a + b
